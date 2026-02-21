@@ -20,6 +20,6 @@ This project analyses website engagement and conversion rate using Power BI.
 
 # Files Included
 1. WEBSITE PERFORMANCE DASHBOARD.pbix
-2. WEBSITE PERFORMANCE DASHBOARD.png
+2. WEBSITE PERFORMANCE DASHBOARD preview.png
 
 "Built as part of my data analytics learning journey"
